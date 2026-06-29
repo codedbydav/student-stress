@@ -4,9 +4,7 @@ Mini-project fot the Introduction to Computational Intelligence course
 # Student Stress Level Prediction using Fuzzy Logic
 
 ## Description
-This project implements a Fuzzy Logic System to classify student stress levels based on several stress-related factors.
-
-The model uses a tuned singleton fuzzy rule system built from the Student Stress Factors dataset.
+This project implements a Fuzzy Logic System to classify student stress levels based on several stress-related factors. The model uses a tuned singleton fuzzy rule system built from the Student Stress Factors dataset.
 
 ## Dataset
 Dataset source:

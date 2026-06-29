@@ -1,0 +1,6 @@
+metric,value
+baseline_old_accuracy,0.23076923076923078
+tuned_test_accuracy,0.9134615384615384
+tuned_all_data_accuracy,0.9519230769230769
+train_rules_count,99.0
+final_rules_count,99.0

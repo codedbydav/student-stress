@@ -1,0 +1,28 @@
+Baseline old accuracy: 0.2308 (23.08%)
+Tuned test accuracy: 0.9135 (91.35%)
+Tuned all-data accuracy: 0.9519 (95.19%)
+Training rules count: 99
+Final rules count: 99
+
+Classification report - test split:
+              precision    recall  f1-score   support
+
+      Rendah       1.00      0.93      0.96        43
+      Sedang       0.85      0.92      0.88        25
+      Tinggi       0.86      0.89      0.88        36
+
+    accuracy                           0.91       104
+   macro avg       0.91      0.91      0.91       104
+weighted avg       0.92      0.91      0.91       104
+
+
+Classification report - all data:
+              precision    recall  f1-score   support
+
+      Rendah       0.98      0.98      0.98       215
+      Sedang       0.92      0.96      0.94       125
+      Tinggi       0.94      0.92      0.93       180
+
+    accuracy                           0.95       520
+   macro avg       0.95      0.95      0.95       520
+weighted avg       0.95      0.95      0.95       520
